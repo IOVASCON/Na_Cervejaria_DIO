@@ -1,0 +1,5 @@
+com\brewmasters\cervejaria\service\CervejaService.class
+com\brewmasters\cervejaria\repository\CervejaRepository.class
+com\brewmasters\cervejaria\CervejariaApplication.class
+com\brewmasters\cervejaria\model\Cerveja.class
+com\brewmasters\cervejaria\controller\CervejaController.class
